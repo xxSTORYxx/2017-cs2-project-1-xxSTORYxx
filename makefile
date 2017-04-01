@@ -1,3 +1,3 @@
-main: test.cpp
-	g++ test.cpp -o main
+main: project1.cpp
+	g++ -o main project1.cpp
 
